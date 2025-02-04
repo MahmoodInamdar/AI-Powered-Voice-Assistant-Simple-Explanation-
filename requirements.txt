@@ -1,0 +1,12 @@
+streamlit
+pyttsx3
+pyaudio
+langgraph
+langchain
+whisper
+openai
+tiktoken
+sounddevice
+numpy
+openai-whisper
+pyttsx3
